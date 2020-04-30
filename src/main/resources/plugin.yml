@@ -1,0 +1,9 @@
+name: BlockMining
+version: @version@
+author: testusuke
+website: https://testusuke.net
+api-version: 1.12.2
+main: net.testusuke.blockmining.BlockMining
+commands:
+  bm:
+  mining:
